@@ -1,0 +1,6 @@
+{
+  "name": "WorkTrack",
+  "description": "A modern, offline-first personal attendance and work tracking app with monthly calendars, streaks, visual analytics, achievement badges, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
